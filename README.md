@@ -1,10 +1,6 @@
-<!-- TÍTULO COM DESTAQUE EM AZUL E FUNDO CINZA -->
-<h1 align="center" style="background-color:#2f2f2f; color:#00BFFF; padding: 20px; border-radius: 12px;">
-  🐍 Desenvolvedor Python focado em dados e automações inteligentes
-</h1>
-
+<!-- BANNER VISUAL -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=460&lines=Integrações+com+API;Dashboards+em+Power+BI;Bots+de+IA+no+WhatsApp;Projetos+frontend+responsivos" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/marcozmr/marcozmr/main/banner.png" alt="Marcos Vinicius | Python Developer banner"/>
 </p>
 
 ---
