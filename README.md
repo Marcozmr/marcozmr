@@ -1,4 +1,4 @@
-<!-- HEADER CINZA COM NOME -->
+<!-- HEADER -->
 <h1 align="center" style="background-color:#2f2f2f; color:#ffffff; padding: 20px; border-radius: 10px;">👨‍💻 Marcos Vinicius</h1>
 
 <p align="center">
@@ -13,17 +13,25 @@ Sou um desenvolvedor focado em **automação de dados**, **integrações com API
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🖥️ Linguagens que uso e domino
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
+
+---
+
+## 📊 Estatísticas de Linguagens
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcozmr&layout=compact&langs_count=8&theme=graywhite" />
+</p>
 
 ---
 
@@ -41,8 +49,8 @@ Sou um desenvolvedor focado em **automação de dados**, **integrações com API
 ## 📬 Contato
 
 <div align="center">
-  <a href="mailto:mr.vinicius@icloud.com"><img src="https://img.shields.io/badge/Email-mr.vinicius@icloud.com-blue?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://wa.me/5516982319218"><img src="https://img.shields.io/badge/WhatsApp-16%2098231-9218-25D366?style=flat-square&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:mr.vinicius@icloud.com"><img src="https://img.shields.io/badge/Email-mr.vinicius@icloud.com-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://wa.me/5516982319218"><img src="https://img.shields.io/badge/WhatsApp-(16)%2098231--9218-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
 ---
