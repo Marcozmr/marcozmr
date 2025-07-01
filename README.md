@@ -1,13 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7f50,100:ff4500&height=220&section=header&text=Marcos%20Vinicius%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Solu%C3%A7%C3%B5es%20Inteligentes%20em%20Python%20%7C%20Integra%C3%A7%C3%B5es%2
-
-## 🧠 Sobre Mim
-
-Sou **Marcos Vinicius**, desenvolvedor fullstack com foco em **Python**, **integrações de dados** e **dashboards inteligentes**. Trabalho com automações de marketplaces (Mercado Livre, Shopee, Magalu, Amazon), dashboards em Power BI e chatbots com IA via WhatsApp usando APIs como Twilio e Meta.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7f50,100:ff4500&height=220&section=header&text=Marcos%20Vinicius%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Transformando%20Ideias%20em%20Automacoes%20e%20Dashboards%20Inteligentes&descSize=20&descAlign=65&fontAlign=50" />
+</p>
 
 ---
 
-## 🖥️ Linguagens que uso e domino
+## 👋 Olá! Eu sou o Marcos Vinicius
+
+Sou **desenvolvedor fullstack** apaixonado por criar soluções que **automatizam processos** e **conectam dados ao seu potencial máximo**.  
+Meu foco é transformar desafios em projetos inteligentes com **Python**, integrações robustas e **dashboards visualmente incríveis**.
+
+---
+
+## 🛠️ Tecnologias que domino
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
@@ -21,6 +25,33 @@ Sou **Marcos Vinicius**, desenvolvedor fullstack com foco em **Python**, **integ
 
 ---
 
+## 🚀 O que eu faço na prática
+
+🔹 **Integrações de Marketplaces:**  
+Automatizo operações com **Mercado Livre, Shopee, Magalu e Amazon**, conectando seus dados diretamente ao **Power BI** e sistemas internos.
+
+🔹 **Dashboards Interativos:**  
+Crio relatórios e painéis **dinâmicos e personalizados** que ajudam você a tomar decisões com clareza.
+
+🔹 **Chatbots Inteligentes:**  
+Desenvolvo **assistentes virtuais no WhatsApp** com APIs oficiais (Meta e Twilio) para atendimento, vendas e suporte.
+
+🔹 **Soluções Fullstack:**  
+Construo interfaces modernas com **React, HTML e CSS**, integradas a backends poderosos em **Python**.
+
+---
+
+## ✨ Alguns projetos de destaque
+
+| 💡 Projeto | 🔍 Descrição |
+|------------|-------------|
+| 🛒 **Integração de Marketplaces** | Conexão automatizada entre plataformas de venda e Power BI com OAuth e CSV |
+| 📈 **Dashboard Loja Integrada** | Visualização de pedidos, faturamento e indicadores em tempo real |
+| 🤖 **Chatbot IA no WhatsApp** | Assistente com NLP e respostas dinâmicas usando API oficial Meta |
+| 🎨 **Frontend UI** | Interfaces responsivas e modernas com React e JavaScript |
+
+---
+
 ## 📊 Estatísticas de Linguagens
 
 <p align="center">
@@ -29,18 +60,7 @@ Sou **Marcos Vinicius**, desenvolvedor fullstack com foco em **Python**, **integ
 
 ---
 
-## 🚀 Projetos em Destaque
-
-| 💡 Projeto | 🔎 Descrição |
-|-----------|-------------|
-| 🔗 **Integração Marketplaces** | Conecta Mercado Livre, Shopee, Magalu e Amazon ao Power BI via CSV e OAuth |
-| 📊 **Dashboard Loja Integrada** | Visualização de pedidos com análise em Power BI |
-| 🤖 **Chatbot IA no WhatsApp** | Integrado com API oficial Meta e Twilio |
-| 🌐 **Frontend UI Projects** | Interfaces modernas com React, HTML, CSS, JS |
-
----
-
-## 📬 Contato
+## 📬 Vamos conversar?
 
 <p align="center">
   <a href="mailto:mr.vinicius@icloud.com">
@@ -54,14 +74,12 @@ Sou **Marcos Vinicius**, desenvolvedor fullstack com foco em **Python**, **integ
 
 ---
 
-## 📈 Visitantes
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marcozmr&style=flat-square&color=gray" alt="visitantes"/>
+  <img src="https://komarev.com/ghpvc/?username=marcozmr&style=flat-square&color=gray" alt="Visitantes"/>
 </p>
 
 ---
 
 <p align="center" style="color:#888;">
-  ⚙️ Construído com Python, lógica, e uma pitada de café ☕
+  ⚙️ Feito com Python, criatividade e um bom café ☕
 </p>
