@@ -24,13 +24,11 @@
 
 ### 📊 Indicadores de Habilidade
 
-| Habilidade     | Nível |
-|----------------|-------|
-| **Python 🐍**      | ![Python Skill](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif) |
-| **Frontend 💻**    | ![Frontend Skill](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif) |
-| **API REST ⚙️**    | ![API Skill](https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif) |
-
-> 💡 Obs: Indicadores animados ilustram foco, experiência prática e dedicação às tecnologias.
+| Habilidade | Nível |
+|-----------|-------|
+| Python 🐍 | ![Python Skill](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZscTcyMmUzdGZ4azZvd2NubDRuMWNmYWs4cmlyMnFjaTVrc3N4MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XGfRXBXXTSPZF8W5Xr/giphy.gif) |
+| Frontend 💻 | ![Frontend Skill](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B6ZGRodm5sbnExd3llcDFob2I1cXZib2d5dGRwZ3FzNjZhaHczZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif) |
+| API REST ⚙️ | ![API Skill](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1obG81NWVjOGdkcnZwbjZ3a2hqbmxuNWg5dGp0ZGU4NjhhczF3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohs4BSacFKI7A717y/giphy.gif) |
 
 ---
 
