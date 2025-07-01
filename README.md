@@ -1,85 +1,60 @@
-<!-- README.md -->
+<!-- HEADER CINZA COM NOME -->
+<h1 align="center" style="background-color:#2f2f2f; color:#ffffff; padding: 20px; border-radius: 10px;">👨‍💻 Marcos Vinicius</h1>
 
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#1e293b;">
-  Marcos Vinícius
-</h1>
-
-<p align="center" style="font-size:20px; color:#2563eb; font-weight:700; margin-top:-10px;">
-  Transformando ideias em soluções digitais incríveis 🚀
-</p>
-
-<div style="max-width:720px; margin:auto; background:#f3f4f6; border-radius:16px; padding:35px 40px; box-shadow: 0 10px 30px rgba(37, 99, 235, 0.15); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-
-  <section style="background:#e0e7ff; padding:25px 35px; border-radius:14px; margin-bottom:40px; box-shadow: 0 6px 20px rgba(99, 102, 241, 0.25);">
-    <h2 style="color:#1e293b; font-weight:800; font-size:24px; letter-spacing:1px; margin-bottom:20px;">
-      ⚙️ Minhas Superpoderes Tecnológicos
-    </h2>
-    <div style="display:flex; justify-content:space-between; flex-wrap:wrap; gap:30px;">
-
-      <div style="background:#ffffff; border-radius:16px; padding:20px; flex:1 1 160px; box-shadow: 0 8px 25px rgba(37, 99, 235, 0.15); text-align:center;">
-        <img src="https://i.imgur.com/6E9r7vM.gif" alt="Python" width="80" style="border-radius:12px;" />
-        <h3 style="color:#2563eb; margin:18px 0 8px; font-weight:700;">Python</h3>
-        <p style="color:#64748b; font-weight:600; font-size:15px;">Domínio avançado para construir backends robustos e eficientes.</p>
-      </div>
-
-      <div style="background:#ffffff; border-radius:16px; padding:20px; flex:1 1 160px; box-shadow: 0 8px 25px rgba(37, 99, 235, 0.15); text-align:center;">
-        <img src="https://i.imgur.com/9R0txX3.gif" alt="FastAPI" width="80" style="border-radius:12px;" />
-        <h3 style="color:#2563eb; margin:18px 0 8px; font-weight:700;">FastAPI</h3>
-        <p style="color:#64748b; font-weight:600; font-size:15px;">APIs rápidas e escaláveis para conectar sistemas com excelência.</p>
-      </div>
-
-      <div style="background:#ffffff; border-radius:16px; padding:20px; flex:1 1 160px; box-shadow: 0 8px 25px rgba(37, 99, 235, 0.15); text-align:center;">
-        <img src="https://i.imgur.com/1vjYkpN.gif" alt="HTML/CSS" width="80" style="border-radius:12px;" />
-        <h3 style="color:#2563eb; margin:18px 0 8px; font-weight:700;">Frontend (HTML/CSS)</h3>
-        <p style="color:#64748b; font-weight:600; font-size:15px;">Design limpo e responsivo para experiências web memoráveis.</p>
-      </div>
-
-      <div style="background:#ffffff; border-radius:16px; padding:20px; flex:1 1 160px; box-shadow: 0 8px 25px rgba(37, 99, 235, 0.15); text-align:center;">
-        <img src="https://i.imgur.com/b7Zm8Gs.gif" alt="JavaScript" width="80" style="border-radius:12px;" />
-        <h3 style="color:#2563eb; margin:18px 0 8px; font-weight:700;">JavaScript</h3>
-        <p style="color:#64748b; font-weight:600; font-size:15px;">Interatividade que encanta e conecta usuários ao seu projeto.</p>
-      </div>
-
-    </div>
-  </section>
-
-  <section style="background:#2563eb; padding:25px 35px; border-radius:14px; box-shadow: 0 6px 20px rgba(37, 99, 235, 0.4); color:#e0e7ff;">
-    <h2 style="font-weight:800; font-size:24px; letter-spacing:1px; margin-bottom:25px;">
-      📊 Indicadores Dinâmicos
-    </h2>
-    
-    <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:30px;">
-
-      <!-- GitHub Stats - Resumo -->
-      <img 
-        alt="GitHub stats" 
-        src="https://github-readme-stats.vercel.app/api?username=marcozmr&show_icons=true&theme=blue-purple&hide_border=true" 
-        style="border-radius:12px; box-shadow: 0 6px 20px rgba(99, 102, 241, 0.3);" />
-
-      <!-- Linguagens usadas -->
-      <img 
-        alt="Top Languages" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcozmr&layout=compact&theme=blue-purple&hide_border=true" 
-        style="border-radius:12px; box-shadow: 0 6px 20px rgba(99, 102, 241, 0.3);" />
-
-      <!-- Profile Trophy -->
-      <img 
-        alt="GitHub Trophies" 
-        src="https://github-profile-trophy.vercel.app/?username=marcozmr&theme=blue-purple&no-frame=true&no-bg=true" 
-        style="border-radius:12px; box-shadow: 0 6px 20px rgba(99, 102, 241, 0.3);" />
-
-    </div>
-  </section>
-
-</div>
-
-<!-- Contador de visitas -->
-<p align="center" style="margin-top:45px;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=marcozmr.marcozmr&style=for-the-badge&color=3b82f6&label=Visitas" alt="Contador de Visitas" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Power+BI+%7C+API+%7C+Frontend;Automação+de+dados+e+Integrações" alt="Typing SVG" />
 </p>
 
 ---
 
-<p align="center" style="font-size:14px; color:#64748b; margin-top:12px;">
-  Última atualização: 2025
+## 🧠 Sobre Mim
+
+Sou um desenvolvedor focado em **automação de dados**, **integrações com APIs** e **dashboards interativos**. Trabalho com soluções que conectam dados de plataformas como **Mercado Livre, Shopee, Magalu e Amazon** ao **Power BI**, além de experiências conversacionais com **IA via WhatsApp (Twilio & Meta API)**. Também desenvolvo interfaces frontend modernas com HTML, CSS, JS e React.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+| 💡 Projeto | 🔎 Descrição |
+|-----------|-------------|
+| 🔗 **Integração Marketplaces** | Conecta Mercado Livre, Shopee, Magalu e Amazon ao Power BI via CSV e OAuth |
+| 📊 **Dashboard Loja Integrada** | Análise de vendas com visual interativo em Power BI |
+| 🤖 **IA + WhatsApp** | Assistente com API oficial da Meta e Twilio, pronto para automação de atendimento |
+| 🌐 **Frontend Projects** | Interfaces modernas com React, HTML, CSS e integração com APIs |
+
+---
+
+## 📬 Contato
+
+<div align="center">
+  <a href="mailto:mr.vinicius@icloud.com"><img src="https://img.shields.io/badge/Email-mr.vinicius@icloud.com-blue?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://wa.me/5516982319218"><img src="https://img.shields.io/badge/WhatsApp-16%2098231-9218-25D366?style=flat-square&logo=whatsapp&logoColor=white"></a>
+</div>
+
+---
+
+## 📈 Visitantes do Perfil
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=marcozmr&style=flat-square&color=gray" alt="visitantes"/>
+</p>
+
+---
+
+<p align="center" style="color:gray;">
+  ⌨️ Desenvolvido com muita lógica, café ☕ e integração de dados 📡
 </p>
