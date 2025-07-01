@@ -1,66 +1,70 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:00c6ff&height=220&section=header&text=Marcos%20Vinicius%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Transformando%20Ideias%20em%20Automacoes%20e%20Dashboards%20Inteligentes&descSize=20&descAlign=65&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:00c6ff&height=220&section=header&text=Marcos%20Vinicius%20🐍&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Especialista%20em%20Python%20%7C%20Automacoes%20%26%20Integra%C3%A7%C3%B5es%20Inteligentes&descSize=20&descAlign=65&fontAlign=50" />
 </p>
 
 ---
 
-## 👋 Olá! Eu sou o Marcos Vinicius
+## 🐍 Sobre Mim
 
-Sou **desenvolvedor fullstack** apaixonado por criar soluções que **automatizam processos** e conectam dados ao seu potencial máximo.  
-Meu propósito é transformar desafios em projetos **inteligentes, ágeis e escaláveis**, unindo **Python**, integrações robustas e **dashboards que contam histórias**.
+Sou **Marcos Vinicius**, desenvolvedor fullstack com paixão declarada por **Python** e tudo que ele pode criar e automatizar.  
+Transformo ideias em soluções de verdade: **integrações complexas, automações robustas e dashboards que revelam histórias escondidas nos dados.**
+
+Minha missão é **acelerar processos** e **liberar o potencial das empresas**, usando Python como motor principal.
 
 ---
 
-## 💻 Tecnologias que domino
+## 🚀 Minhas Especialidades
+
+✨ **Automação com Python**  
+Scripts inteligentes que eliminam tarefas repetitivas e conectam diferentes plataformas.
+
+🔗 **Integração de Marketplaces**  
+Do **Mercado Livre ao Amazon**, unindo APIs, bancos de dados e Power BI para criar uma visão completa do seu negócio.
+
+🤖 **Chatbots com Python**  
+Atendimento automatizado e natural no **WhatsApp**, usando APIs oficiais Meta e Twilio.
+
+📊 **Dashboards Interativos**  
+Visualizações dinâmicas e inteligentes em **Power BI**, abastecidas por pipelines criados em Python.
+
+🌐 **Soluções Web Fullstack**  
+Interfaces modernas com **React, HTML e CSS**, integradas a backends poderosos em Python.
+
+---
+
+## 💻 Tecnologias que Domino
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 </div>
 
 ---
 
-## 🚀 O que eu faço na prática
+## 🌟 Projetos que Marcaram a Jornada
 
-✨ **Integrações de Marketplaces**  
-Automatizo operações com **Mercado Livre, Shopee, Magalu e Amazon**, conectando dados em tempo real ao **Power BI** e sistemas internos.
-
-📊 **Dashboards Interativos**  
-Crio relatórios e painéis **dinâmicos e visualmente impactantes**, que ajudam você a tomar decisões com clareza e velocidade.
-
-🤖 **Chatbots Inteligentes**  
-Desenvolvo **assistentes virtuais no WhatsApp** com APIs oficiais (Meta e Twilio) para vendas, suporte e automação de processos.
-
-🌐 **Soluções Fullstack**  
-Construo **interfaces modernas** com React e backends poderosos em Python.
+| 💡 Projeto | 📌 O que faz |
+|------------|--------------|
+| 🛒 **Integração Multicanal com Python** | Automatiza importação e análise de pedidos dos principais marketplaces do Brasil |
+| 📈 **Dashboards Inteligentes** | Painéis em Power BI conectados a pipelines Python com atualizações em tempo real |
+| 🤖 **Chatbot de Vendas no WhatsApp** | Atendimento automatizado e escalável com APIs oficiais |
+| ⚙️ **Automação de Relatórios** | Geração e envio automático de relatórios gerenciais em PDF e Excel |
 
 ---
 
-## ✨ Projetos em Destaque
-
-| 💡 Projeto | 🔍 Descrição |
-|------------|-------------|
-| 🛒 **Integração de Marketplaces** | Conexão automatizada entre plataformas de venda e Power BI com OAuth e CSV |
-| 📈 **Dashboard Loja Integrada** | Visualização de pedidos, faturamento e indicadores em tempo real |
-| 🤖 **Chatbot IA no WhatsApp** | Assistente inteligente com NLP e respostas dinâmicas usando a API oficial Meta |
-| 🎨 **Frontend UI** | Interfaces responsivas e modernas com React e JavaScript |
-
----
-
-## 📊 Estatísticas de Linguagens
+## 📊 Meu Universo de Código
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcozmr&layout=compact&langs_count=8&theme=graywhite" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcozmr&layout=compact&langs_count=8&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-## 📬 Vamos conversar?
+## 📬 Vamos Criar Algo Juntos?
 
 <p align="center">
   <a href="mailto:mr.vinicius@icloud.com">
@@ -81,5 +85,5 @@ Construo **interfaces modernas** com React e backends poderosos em Python.
 ---
 
 <p align="center" style="color:#888;">
-  ⚙️ Feito com Python, criatividade e um bom café ☕
+  🐍 Código limpo, automações poderosas e uma pitada de café ☕
 </p>
