@@ -1,9 +1,5 @@
-<!-- BANNER VISUAL -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marcozmr/marcozmr/main/banner.png" alt="Marcos Vinicius | Python Developer banner"/>
-</p>
-
----
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7f50,100:ff4500&height=220&section=header&text=Marcos%20Vinicius%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Solu%C3%A7%C3%B5es%20Inteligentes%20em%20Python%20%7C%20Integra%C3%A7%C3%B5es%2
 
 ## 🧠 Sobre Mim
 
