@@ -41,10 +41,10 @@
 
 ---
 
-## 🎨 Gráficos de Atividade
+## 🎨 Gráfico de Atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcozmr&theme=radical&area=true&hide_border=true&radius=8" alt="Gráfico de atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcozmr&theme=github-dark&area=true&hide_border=true&radius=6&width=500&height=100" alt="Gráfico de atividade" />
 </p>
 
 ---
@@ -64,12 +64,12 @@
 
 ## 👀 Visitantes
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Marcozmr/count.svg" alt="Contador de visitas Super Mario" style="border: 4px solid #FF0000; border-radius: 15px;" />
+<p align="center" style="border: 6px solid #FF0000; border-radius: 20px; padding: 10px; max-width: 320px; margin: auto; background: url('https://i.imgur.com/MY8EZji.png') no-repeat center; background-size: contain;">
+  <img src="https://profile-counter.glitch.me/Marcozmr/count.svg" alt="Contador de visitas Super Mario" style="filter: drop-shadow(2px 2px 2px #000);" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="250" alt="Super Mario animado" />
+<p align="center" style="margin-top: 10px;">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="220" alt="Super Mario animado" />
 </p>
 
 ---
