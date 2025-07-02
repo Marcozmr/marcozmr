@@ -44,11 +44,7 @@
 ## 🎨 Gráficos de Atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcozmr&theme=dracula&area=true&hide_border=true&radius=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcozmr&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&sideLabels=FF61DA&currStreakLabel=00FF00&currStreakNum=00FF00&fire=FF61DA&ring=00FF00" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcozmr&theme=radical&area=true&hide_border=true&radius=8" alt="Gráfico de atividade" />
 </p>
 
 ---
@@ -68,19 +64,16 @@
 
 ## 👀 Visitantes
 
-<p align="center" style="font-family: 'Press Start 2P', cursive;">
-  <img src="https://profile-counter.glitch.me/Marcozmr/count.svg" alt="Contador de visitas Super Mario" />
-  <br>
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="250px" alt="Super Mario animado" />
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Marcozmr/count.svg" alt="Contador de visitas Super Mario" style="border: 4px solid #FF0000; border-radius: 15px;" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="250" alt="Super Mario animado" />
 </p>
 
 ---
 
-<!-- Importando fonte estilo videogame via Google Fonts -->
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
-</style>
-
-<p align="center" style="font-family: 'Press Start 2P', cursive; font-size: 20px; color: #FF0000; margin-top: 30px;">
-  🎮 <strong>Obrigado pela visita! Que a força do Mario te inspire a conquistar seus desafios! 🚀</strong> 🎮
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FF0000,FFA500&height=120&section=footer&text=Obrigado%20pela%20visita!%20%F0%9F%8E%AE%20Mario%20está%20torcendo%20por%20você!&fontSize=18&fontColor=ffffff" />
 </p>
