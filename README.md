@@ -1,7 +1,7 @@
-<h1 align="center">🎯 Marcos Vinicius — Criando com propósito, conectando com código!</h1>
+<h1 align="center">✨ Marcos Vinicius — Código com Alma e Criatividade</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&weight=500&size=22&pause=1000&color=F75C5C&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+universo+criativo!;Aqui+o+código+ganha+vida+com+propósito.;Automatizando+ideias+e+colorindo+experiências." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1200&color=000000&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+experiências;Criatividade+%2B+Código+%3D+Impacto;Seu+projeto+%2C+minha+missão!" />
 </p>
 
 ---
@@ -39,10 +39,10 @@
 
 ---
 
-## 📊 Gráfico de Atividade
+## 📈 Gráfico de Atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcozmr&theme=tokyo-night&area=true&hide_border=true" alt="Gráfico de atividade" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcozmr&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true&hide=issues&hide_border=true" width="400" />
 </p>
 
 ---
@@ -63,6 +63,15 @@
 ## 🎮 Visitantes
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Marcozmr/count.svg" alt="Contador de visitantes" style="filter: drop-shadow(1px 1px 1px #000); image-rendering: pixelated;" />
+  <img src="https://count.getloli.com/get/@Marcozmr?theme=rule34" alt="Contador de visitantes animado" />
   <br/>
-  <img src="https://media.giphy.com/media/PAqjdPkJLDsmc/giphy.gif" width="160" alt="Sup
+  <img src="https://media.giphy.com/media/PAqjdPkJLDsmc/giphy.gif" width="160" alt="Super Mario se despedindo" />
+</p>
+
+---
+
+## 💖 Obrigado pela visita!
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1200&color=FF69B4&center=true&vCenter=true&width=500&lines=Volte+sempre!+Você+é+parte+dessa+aventura!" />
+</p>
