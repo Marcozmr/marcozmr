@@ -72,6 +72,4 @@
 
 ## 💖 Obrigado pela visita!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1200&color=FF69B4&center=true&vCenter=true&width=500&lines=Volte+sempre!+Você+é+parte+dessa+aventura!" />
-</p>
+
