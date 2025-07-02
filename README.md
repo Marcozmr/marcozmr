@@ -48,4 +48,34 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcozmr&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&sideLabels=FF61DA&currStreakLabel=00FF00&currStreakNum=00FF00&f_
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcozmr&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&sideLabels=FF61DA&currStreakLabel=00FF00&currStreakNum=00FF00&fire=FF61DA&ring=00FF00" />
+</p>
+
+---
+
+## 💬 Vamos nos conectar?
+
+<p align="center">
+  <a href="mailto:mr.vinicius1@icloud.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/5516982319218" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
+---
+
+## 👀 Visitantes
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Marcozmr/count.svg" alt="Contador de visitas Super Mario" />
+  <br>
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="250px" alt="Super Mario animado" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=150&section=footer&text=Obrigado%20pela%20visita!%20🎮&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+</p>
