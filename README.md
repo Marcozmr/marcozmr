@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Marcos | Criador de Soluções em Python</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&lines=Transformando+ideias+em+projetos+incríveis;Python+%2B+Front-End+com+criatividade;Tecnologia+que+inspira+e+conecta" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=600&lines=Transformando+ideias+em+projetos+incríveis;Python+%2B+Front-End+com+criatividade;Tecnologia+que+inspira+e+conecta" alt="Typing SVG" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 
 ## 👀 Visitantes
 
-<p align="center">
+<p align="center" style="font-family: 'Press Start 2P', cursive;">
   <img src="https://profile-counter.glitch.me/Marcozmr/count.svg" alt="Contador de visitas Super Mario" />
   <br>
   <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="250px" alt="Super Mario animado" />
@@ -76,6 +76,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=150&section=footer&text=Obrigado%20pela%20visita!%20🎮&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+<!-- Importando fonte estilo videogame via Google Fonts -->
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+</style>
+
+<p align="center" style="font-family: 'Press Start 2P', cursive; font-size: 20px; color: #FF0000; margin-top: 30px;">
+  🎮 <strong>Obrigado pela visita! Que a força do Mario te inspire a conquistar seus desafios! 🚀</strong> 🎮
 </p>
