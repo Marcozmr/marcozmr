@@ -1,20 +1,21 @@
-<h1 align="center">✨ Marcos | Python Developer 🚀</h1>
+<h1 align="center">🚀 Marcos | Python & Front-End Creator</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00D1F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python+e+Front-End;Projetos+inovadores+e+funcionais;Tecnologia+com+propósito+e+alegria!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Python+é+minha+especialidade!;Front-end+com+toque+criativo.;Tecnologia+com+propósito+e+alegria!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## ✨ Sobre mim
 
-🙋‍♂️ Desenvolvedor apaixonado por criar soluções modernas.  
-🐍 Especialista em **Python**, mas também domino tecnologias de Front-End para entregar experiências incríveis.  
-💡 Acredito no poder transformador da tecnologia e adoro aprender coisas novas.
+🎨 Desenvolvedor que ama cores, interfaces bonitas e código limpo.  
+🐍 Apaixonado por **Python** e soluções inteligentes.  
+🚀 Sempre buscando criar experiências incríveis no **Front-End**.  
+🌟 Acredito que criatividade e tecnologia podem transformar tudo.
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## 🛠️ Tecnologias que mais uso
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,html,css,bootstrap,js" />
@@ -22,20 +23,26 @@
 
 ---
 
-## 🎨 Atividades e Conquistas
+## 🎯 Projetos em Destaque
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcozmr&show_icons=true&theme=radical&title_color=FF61DA&icon_color=FF61DA&bg_color=0D1117&hide_border=false&border_radius=8" />
+  <a href="https://github.com/Marcozmr/Experts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marcozmr&repo=Experts&theme=gradient&border_color=F7A41D" />
+  </a>
+  <a href="https://github.com/Marcozmr/agente.ia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marcozmr&repo=agente.ia&theme=gradient&border_color=F7A41D" />
+  </a>
+  <a href="https://github.com/Marcozmr/project-signos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marcozmr&repo=project-signos&theme=gradient&border_color=F7A41D" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marcozmr&repo=Experts&theme=radical&border_color=FF61DA" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marcozmr&repo=agente.ia&theme=radical&border_color=FF61DA" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marcozmr&repo=project-signos&theme=radical&border_color=FF61DA" />
-</p>
+---
+
+## 👨‍💻 Atividades Recentes
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcozmr&theme=react-dark&area=true&hide_border=true&radius=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcozmr&theme=github_dark" />
 </p>
 
 ---
@@ -56,11 +63,11 @@
 ## 👀 Visitantes
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@Marcozmr?theme=rule34" alt="Contador de visitas estiloso" />
+  <img src="https://count.getloli.com/get/@Marcozmr?theme=geekblue" alt="Contador de visitas tecnológico e divertido" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61DA,100:6C63FF&height=150&section=footer&text=Obrigado%20pela%20visita!%20🚀&fontSize=24&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=footer&text=Obrigado%20pela%20visita!%20🚀&fontSize=24&fontColor=ffffff" />
 </p>
