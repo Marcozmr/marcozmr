@@ -21,7 +21,9 @@
 ⚡ **FastAPI** – APIs velozes que fazem tudo parecer simples.  
 🎨 **HTML & CSS** – estrutura e estilo que dão vida ao projeto.  
 🚀 **JavaScript** – interatividade e movimento que encantam o usuário.  
-💜 **Bootstrap** – layouts responsivos e cheios de personalidade.
+💜 **Bootstrap** – layouts responsivos e cheios de personalidade.  
+📊 **Power BI** – dashboards dinâmicos com dados reais.  
+💬 **Chatbots com IA** – bots que entendem e respondem com naturalidade.
 
 ---
 
@@ -44,7 +46,7 @@
 ## 🎨 Gráfico de Atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcozmr&theme=github-dark&area=true&hide_border=true&radius=6&width=500&height=100" alt="Gráfico de atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcozmr&theme=github-dark&area=true&hide_border=true&radius=6" alt="Gráfico de atividade" />
 </p>
 
 ---
@@ -62,18 +64,20 @@
 
 ---
 
-## 👀 Visitantes
+## 👀 Contador de Visitantes Super Mario
 
-<p align="center" style="border: 6px solid #FF0000; border-radius: 20px; padding: 10px; max-width: 320px; margin: auto; background: url('https://i.imgur.com/MY8EZji.png') no-repeat center; background-size: contain;">
+<p align="center">
   <img src="https://profile-counter.glitch.me/Marcozmr/count.svg" alt="Contador de visitas Super Mario" style="filter: drop-shadow(2px 2px 2px #000);" />
 </p>
 
-<p align="center" style="margin-top: 10px;">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="220" alt="Super Mario animado" />
+<p align="center">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="200" alt="Super Mario animado" />
 </p>
 
 ---
 
+## 🎉 Obrigado pela visita!
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=FF0000,FFA500&height=120&section=footer&text=Obrigado%20pela%20visita!%20%F0%9F%8E%AE%20Mario%20está%20torcendo%20por%20você!&fontSize=18&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FADC61,FF5733&height=120&section=footer&text=Volte%20sempre!%20O%20Marcos%20agradece%20com%20um%20código%20feliz%20😄🚀&fontSize=20&fontColor=000000&fontAlignY=40" />
 </p>
