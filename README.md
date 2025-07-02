@@ -31,13 +31,10 @@
 
 <p align="center">
   <a href="https://github.com/Marcozmr/Experts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marcozmr&repo=Experts&theme=algolia&border_color=36BCF7" />
-  </a>
-  <a href="https://github.com/Marcozmr/agente.ia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marcozmr&repo=agente.ia&theme=algolia&border_color=36BCF7" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marcozmr&repo=Experts&theme=radical&border_color=F7DF1E&title_color=F7DF1E&icon_color=F7DF1E" />
   </a>
   <a href="https://github.com/Marcozmr/project-signos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marcozmr&repo=project-signos&theme=algolia&border_color=36BCF7" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marcozmr&repo=project-signos&theme=tokyonight&border_color=8E2DE2&title_color=F291FF&icon_color=F291FF" />
   </a>
 </p>
 
@@ -46,7 +43,7 @@
 ## 🎨 Gráfico de Atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcozmr&theme=github-dark&area=true&hide_border=true&radius=6" alt="Gráfico de atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcozmr&theme=react-dark&area=true&hide_border=true&radius=10" alt="Gráfico de atividade" />
 </p>
 
 ---
@@ -64,20 +61,11 @@
 
 ---
 
-## 👀 Contador de Visitantes Super Mario
+## 👾 Contador de Visitantes com Tema Super Mario
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Marcozmr/count.svg" alt="Contador de visitas Super Mario" style="filter: drop-shadow(2px 2px 2px #000);" />
+  <img src="https://profile-counter.glitch.me/Marcozmr/count.svg" alt="Contador de visitas Super Mario" style="image-rendering: pixelated; filter: drop-shadow(0 0 2px #000);" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="200" alt="Super Mario animado" />
-</p>
-
----
-
-## 🎉 Obrigado pela visita!
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=FADC61,FF5733&height=120&section=footer&text=Volte%20sempre!%20O%20Marcos%20agradece%20com%20um%20código%20feliz%20😄🚀&fontSize=20&fontColor=000000&fontAlignY=40" />
-</p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgyOW5nZHFjb3RnZTRmcmxybmZlMmloYXNtOX
