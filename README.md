@@ -1,71 +1,81 @@
-<h1 align="center">🚀 Marcos | Criador de Soluções em Python</h1>
+<h1 align="center">🎯 Marcos Vinicius — Criando com propósito, conectando com código!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=600&lines=Transformando+ideias+em+projetos+incríveis;Python+%2B+Front-End+com+criatividade;Tecnologia+que+inspira+e+conecta" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcozmr&layout=compact&theme=dracula&hide_border=true&title_color=ff6b6b" alt="Top Languages" />
 </p>
 
 ---
 
 ## ✨ Sobre mim
 
-🎨 Desenvolvedor que acredita no poder da criatividade e da tecnologia para criar coisas incríveis.  
-🐍 **Python é minha ferramenta preferida** para automatizar e dar vida a soluções inteligentes.  
-🌈 No Front-End, gosto de **interfaces coloridas, modernas e cheias de propósito.**  
-💡 Sempre em busca de aprendizado e novos desafios que façam a diferença.
+🎨 Sou um desenvolvedor apaixonado por criar soluções que simplificam, conectam e encantam.  
+💡 Acredito que boas ideias merecem ganhar vida com criatividade, código e um toque de ousadia.  
+🚀 Automatizo processos, construo interfaces e integro sistemas para transformar ideias em impacto real.
 
 ---
 
-## 🌟 Minhas Skills Favoritas
+## 🛠️ Tecnologias que uso com alegria
 
-✨ **Python** – automação, APIs e projetos que economizam tempo e energia.  
-⚡ **FastAPI** – APIs velozes que fazem tudo parecer simples.  
-🎨 **HTML & CSS** – estrutura e estilo que dão vida ao projeto.  
-🚀 **JavaScript** – interatividade e movimento que encantam o usuário.  
-💜 **Bootstrap** – layouts responsivos e cheios de personalidade.  
-📊 **Power BI** – dashboards dinâmicos com dados reais.  
-💬 **Chatbots com IA** – bots que entendem e respondem com naturalidade.
+- 🐍 **Python** — para automações, bots e integrações com APIs  
+- 🌐 **HTML / CSS / JS** — para dar forma, cor e movimento às ideias  
+- ⚡ **FastAPI** — para APIs rápidas como o Flash  
+- 📊 **Power BI** — para transformar dados em decisões  
+- 💬 **Bots com IA** — para conversas inteligentes e humanas  
+- 🎨 **Bootstrap & Tailwind** — para interfaces responsivas e estilosas
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Meus Projetos Favoritos
 
 <p align="center">
   <a href="https://github.com/Marcozmr/Experts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marcozmr&repo=Experts&theme=radical&border_color=F7DF1E&title_color=F7DF1E&icon_color=F7DF1E" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marcozmr&repo=Experts&theme=highcontrast&border_color=FFD700&title_color=FFD700" />
   </a>
   <a href="https://github.com/Marcozmr/project-signos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marcozmr&repo=project-signos&theme=tokyonight&border_color=8E2DE2&title_color=F291FF&icon_color=F291FF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marcozmr&repo=project-signos&theme=cobalt&border_color=8E44AD&title_color=F9CFF3" />
   </a>
 </p>
 
 ---
 
-## 🎨 Gráfico de Atividade
+## 📈 Gráfico de atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcozmr&theme=react-dark&area=true&hide_border=true&radius=10" alt="Gráfico de atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcozmr&theme=tokyo-night-day&area=true&hide_border=true&radius=10&height=200" alt="Gráfico de atividade" />
 </p>
 
 ---
 
-## 💬 Vamos nos conectar?
+## 💌 Fale comigo!
 
 <p align="center">
-  <a href="mailto:mr.vinicius1@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:mr.vinicius1@icloud.com">
+    <img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://wa.me/5516982319218" target="_blank">
+  <a href="https://wa.me/5516982319218">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
 ---
 
-## 👾 Contador de Visitantes com Tema Super Mario
+## 👾 Contador de visitantes no estilo Super Mario
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Marcozmr/count.svg" alt="Contador de visitas Super Mario" style="image-rendering: pixelated; filter: drop-shadow(0 0 2px #000);" />
+  <img src="https://profile-counter.glitch.me/Marcozmr/count.svg" alt="Contador de visitas" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgyOW5nZHFjb3RnZTRmcmxybmZlMmloYXNtOX
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="Mario dando tchau" />
+</p>
+
+---
+
+## 💖 Obrigado pela visita!
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=22&pause=1000&color=F78C6B&center=true&vCenter=true&width=500&lines=Volte+sempre!+O+Marcos+agradece+com+sorrisos+e+código+%F0%9F%98%80%F0%9F%92%BB" />
+</p>
+
+---
+
