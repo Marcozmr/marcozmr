@@ -39,10 +39,10 @@
 
 ---
 
-## 📈 Gráfico de Atividade
+## 📊 Gráfico de Atividade
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcozmr&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&ring=FADA5E&currStreakLabel=FADA5E" alt="Streak Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcozmr&theme=tokyo-night&area=true&hide_border=true" alt="Gráfico de atividade" />
 </p>
 
 ---
@@ -63,8 +63,6 @@
 ## 🎮 Visitantes
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Marcozmr/count.svg" alt="Visitantes" style="image-rendering: pixelated; filter: drop-shadow(0 0 2px #000);" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3M0aGdxMWgzZnV5dnlvZ3ExdzV3ZTVvOHYyZG5hb2oydWR0emFtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PAqjdPkJLDsmc/giphy.gif" width="180" alt="Super M
+  <img src="https://profile-counter.glitch.me/Marcozmr/count.svg" alt="Contador de visitantes" style="filter: drop-shadow(1px 1px 1px #000); image-rendering: pixelated;" />
+  <br/>
+  <img src="https://media.giphy.com/media/PAqjdPkJLDsmc/giphy.gif" width="160" alt="Sup
