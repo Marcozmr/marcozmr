@@ -10,7 +10,6 @@
 
 🎨 Desenvolvedor que acredita no poder da criatividade e da tecnologia para criar coisas incríveis.  
 🐍 **Python é minha ferramenta preferida** para automatizar e dar vida a soluções inteligentes.  
-🌈 No Front-End, gosto de **interfaces coloridas, modernas e cheias de propósito.**  
 💡 Sempre em busca de aprendizado e novos desafios que façam a diferença.
 
 ---
