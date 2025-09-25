@@ -1,4 +1,4 @@
-<p align="center"> Marcos Vinicius </p>
+<h1 align="center"> Marcos Vinicius </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1200&color=000000&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+experiências;Criatividade+%2B+Código+%3D+Impacto;Seu+projeto+%2C+minha+missão!" alt="Transformando ideias em experiências; Criatividade + Código = Impacto; Seu projeto, minha missão!" />
@@ -56,7 +56,7 @@
 📈 Gráfico de Atividade
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcozmr&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true&hide=issues&hide_border=true" width="400" alt="Gráfico de Atividade do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcozmr&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits&hide=issues&hide_border=true" width="400" alt="Gráfico de Atividade do GitHub" />
 </p>
 
 
@@ -79,7 +79,7 @@
 📊 Visitantes
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{Marcozmr}/count.svg" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Marcozmr&color=blue&style=flat-square" alt="Contador de visitas" />
 </p>
 
 
