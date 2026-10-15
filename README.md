@@ -48,6 +48,9 @@
   <a href="https://github.com/Marcozmr/project-signos">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marcozmr&repo=project-signos&theme=cobalt&border_color=8E44AD&title_color=F9CFF3" alt="Projeto Signos" />
   </a>
+  <a href="https://github.com/Marcozmr/desentupidora-brasil500">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marcozmr&repo=desentupidora-brasil500&theme=tokyonight&border_color=FFD400&title_color=25D366" alt="Site Desentupidora Brasil 500" />
+  </a>
 </p>
 
 
